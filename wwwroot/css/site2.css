@@ -1,0 +1,31 @@
+.navbar-nav{
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+    text-align: center;
+    background-color: aliceblue;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    list-style-type: none;
+}
+header{
+    align-items: center;
+    text-align: center;
+}
+strong{
+    font-size: 14em;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+body{
+    background-color: beige;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
